@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">19.8 MapLocation</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="action_settings">結束</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="t001">取得定位資訊中...</string>
+    <string name="b001">顯示Google地圖</string>
+
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="b001">啟動警告</string>
+    <string name="b002">停止警告</string>
+    <string name="b003">顯示距離/結束</string>
+    <string name="t001">緯度(Latitude):</string>
+    <string name="t002">經度(Longitude):</string>
+    <string name="t003">座標:</string>
+
+
+</resources>

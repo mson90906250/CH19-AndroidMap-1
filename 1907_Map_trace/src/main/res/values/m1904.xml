@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="b001">顯示Google地圖</string>
+    <string name="b002">追蹤個人行蹤</string>
+    <string name="t002">資訊:</string>
+    <string name="item01">切換圖示</string>
+
+</resources>

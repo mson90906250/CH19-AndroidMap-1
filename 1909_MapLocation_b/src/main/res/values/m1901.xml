@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="prompt_select_location">請選擇地點</string>
+    <string name="prompt_select_map_type">請選擇地圖模式</string>
+    <string name="item01">切換圖示</string>
+    <string name="showlocid">顯示目前位置</string>
+    <string name="msg">訊息</string>
+    <string name="item02">清除標記</string>
+    <string name="map_not_ready">Map 設置未完成</string>
+
+
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="t001">緯度(Latitude):</string>
+    <string name="t002">經度(Longitude):</string>
+    <string name="t003">景點或地址:</string>
+    <string name="b001">轉換成地址</string>
+    <string name="b002">轉換成GPS座標</string>
+    <string name="b003">顯示Google地圖</string>
+    <string name="t005">經緯度資料:</string>
+
+
+</resources>
